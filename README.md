@@ -1,1 +1,1 @@
-# openshiftphp
+# openshiftphp-v1
